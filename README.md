@@ -46,7 +46,8 @@ res.json(students); // return the result set as JSON
 });
 */
 
-4.function isPrime(number) {
+4.
+function isPrime(number) {
   // First, we check if the number is less than 2. If it is, we know it's not prime, so we return false.
   if (number < 2) {
     return false;
@@ -64,6 +65,8 @@ res.json(students); // return the result set as JSON
   return true;
 }
 5.
+
+
 public static void main(String[] args)
 {
     int n = 6; // The height of the pyramid
